@@ -41,6 +41,7 @@ Participants are equally penalized for predicting a synonym of a correct tag, so
 
 ### EXTRA RESOURCES:
 Research paper : https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tagging-1.pdf
+
 Research paper : https://dl.acm.org/citation.cfm?id=2660970&dl=ACM&coll=DL
 
 ### COMMENTS:
